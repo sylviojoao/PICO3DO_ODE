@@ -1,3 +1,3 @@
 Greetings from Brazil, never found the firmware for this ODE Pico 3DO on internet, so if you are just like me that update your ode and got it corrupted, you can try this firmware I built.
 The model is the old one from the photos, I don't know why but you should never press the Open/Close button from the console while using or it will stop working eventually, I use only composite cables too.
-When this happened I had to put the cd drive back until the console began to work again and only then change to PicoODE again.
+When this happened I had to put the cd drive back until the console began to work again and only then change to PicoODE again. Edit: it's almost flawless when you add an external power source to the raspberry pico, my solution was an usb cable soldered to the usb power and ground pins. 
